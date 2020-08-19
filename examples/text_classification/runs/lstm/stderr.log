@@ -1,0 +1,19 @@
+0it [00:00, ?it/s]
+20it [00:00, 8294.88it/s]
+
+Traceback (most recent call last):
+  File "test.py", line 157, in <module>
+    main()
+  File "test.py", line 118, in main
+    model.to(device)
+  File "/home/SENSETIME/wujiannan/Software/anaconda3/envs/vaenlp/lib/python3.7/site-packages/torch/nn/modules/module.py", line 426, in to
+    return self._apply(convert)
+  File "/home/SENSETIME/wujiannan/Software/anaconda3/envs/vaenlp/lib/python3.7/site-packages/torch/nn/modules/module.py", line 202, in _apply
+    module._apply(fn)
+  File "/home/SENSETIME/wujiannan/Software/anaconda3/envs/vaenlp/lib/python3.7/site-packages/torch/nn/modules/module.py", line 202, in _apply
+    module._apply(fn)
+  File "/home/SENSETIME/wujiannan/Software/anaconda3/envs/vaenlp/lib/python3.7/site-packages/torch/nn/modules/module.py", line 224, in _apply
+    param_applied = fn(param)
+  File "/home/SENSETIME/wujiannan/Software/anaconda3/envs/vaenlp/lib/python3.7/site-packages/torch/nn/modules/module.py", line 424, in convert
+    return t.to(device, dtype if t.is_floating_point() else None, non_blocking)
+KeyboardInterrupt

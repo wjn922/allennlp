@@ -1,0 +1,698 @@
+2019-12-19 14:44:23,578 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 14:44:23,578 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 14:44:23,579 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 14:44:23,579 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 14:44:23,579 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 14:44:23,579 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 14:44:23,579 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 14:44:23,579 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 14:44:23,579 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 14:44:23,579 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 14:44:23,579 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 14:44:23,579 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 14:44:23,579 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 14:44:23,579 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 14:44:23,579 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 14:44:23,579 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 14:44:23,579 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-19 14:44:25,570 - INFO - allennlp.common.params - type = exponential
+2019-12-19 14:44:25,570 - INFO - allennlp.common.params - Converting Params object to dict; logging of default values will not occur when dictionary parameters are used subsequently.
+2019-12-19 14:44:25,571 - INFO - allennlp.common.params - CURRENTLY DEFINED PARAMETERS: 
+2019-12-19 14:44:25,571 - INFO - allennlp.common.params - gamma = 0.5
+2019-12-19 14:44:25,571 - INFO - allennlp.common.params - last_epoch = -1
+2019-12-19 14:44:25,571 - WARNING - allennlp.training.trainer - You provided a validation dataset but patience was set to None, meaning that early stopping is disabled
+2019-12-19 14:44:25,572 - INFO - allennlp.training.trainer - Beginning training.
+2019-12-19 14:44:25,572 - INFO - allennlp.training.trainer - Epoch 0/99
+2019-12-19 14:44:25,572 - INFO - allennlp.training.trainer - Peak CPU memory usage MB: 2172.584
+2019-12-19 14:44:25,613 - INFO - allennlp.training.trainer - GPU 0 memory usage MB: 2294
+2019-12-19 14:44:25,615 - INFO - allennlp.training.trainer - Training
+2019-12-19 14:44:25,658 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data/train-all/train-all_99.txt
+2019-12-19 14:49:31,783 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data/train-all/train-all_36.txt
+2019-12-19 14:55:19,566 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data/train-all/train-all_187.txt
+2019-12-19 15:01:05,490 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data/train-all/train-all_167.txt
+2019-12-19 15:06:52,112 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data/train-all/train-all_44.txt
+2019-12-19 15:12:43,674 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data/train-all/train-all_69.txt
+2019-12-19 15:14:25,631 - INFO - allennlp.training.checkpointer - Best validation performance so far. Copying weights to './runs/classifier_20191219_14:44:23/best.th'.
+2019-12-19 16:52:14,848 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 16:52:14,848 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 16:52:14,848 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 16:52:14,848 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 16:52:14,848 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 16:52:14,848 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 16:52:14,848 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 16:52:14,848 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 16:52:14,848 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 16:52:14,848 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 16:52:14,848 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 16:52:14,848 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 16:52:14,848 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 16:52:14,848 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 16:52:14,848 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 16:52:14,848 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 16:52:14,848 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-19 16:53:03,323 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 16:53:03,323 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 16:53:03,323 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 16:53:03,323 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 16:53:03,323 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 16:53:03,323 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 16:53:03,323 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 16:53:03,323 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 16:53:03,323 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 16:53:03,323 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 16:53:03,323 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 16:53:03,323 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 16:53:03,323 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 16:53:03,323 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 16:53:03,324 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 16:53:03,324 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 16:53:03,324 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-19 16:53:54,062 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 16:53:54,062 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 16:53:54,062 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 16:53:54,062 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 16:53:54,062 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 16:53:54,062 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 16:53:54,062 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 16:53:54,062 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 16:53:54,062 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 16:53:54,062 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 16:53:54,062 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 16:53:54,062 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 16:53:54,062 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 16:53:54,062 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 16:53:54,063 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 16:53:54,063 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 16:53:54,063 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-19 16:54:20,178 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data/interpolate/interpolate_0.txt
+2019-12-19 16:54:41,859 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data-v2.0/interpolate/interpolate_0.txt
+2019-12-19 16:54:41,908 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 16:54:41,909 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 16:54:41,909 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 16:54:41,909 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 16:54:41,909 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 16:54:41,909 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 16:54:41,909 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 16:54:41,909 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 16:54:41,909 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 16:54:41,909 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 16:54:41,909 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 16:54:41,909 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 16:54:41,909 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 16:54:41,909 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 16:54:41,909 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 16:54:41,909 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 16:54:41,909 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-19 16:55:09,353 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data-v2.0/interpolate/interpolate_0.txt
+2019-12-19 16:55:09,401 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 16:55:09,401 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 16:55:09,401 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 16:55:09,401 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 16:55:09,401 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 16:55:09,401 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 16:55:09,401 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 16:55:09,401 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 16:55:09,402 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 16:55:09,402 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 16:55:09,402 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 16:55:09,402 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 16:55:09,402 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 16:55:09,402 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 16:55:09,402 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 16:55:09,402 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 16:55:09,402 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+SOURCE: Evaluate 25 + (37 - (-24 + 36)).
+2019-12-19 16:55:38,170 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data-v2.0/interpolate/interpolate_0.txt
+2019-12-19 16:55:38,219 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 16:55:38,219 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 16:55:38,219 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 16:55:38,219 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 16:55:38,219 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 16:55:38,219 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 16:55:38,219 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 16:55:38,219 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 16:55:38,219 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 16:55:38,219 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 16:55:38,219 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 16:55:38,219 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 16:55:38,219 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 16:55:38,220 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 16:55:38,220 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 16:55:38,220 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 16:55:38,220 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+SOURCE: Evaluate 25 + (37 - (-24 + 36)).
+2019-12-19 16:56:19,581 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data-v2.0/interpolate/interpolate_0.txt
+2019-12-19 16:56:19,629 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 16:56:19,630 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 16:56:19,630 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 16:56:19,630 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 16:56:19,630 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 16:56:19,630 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 16:56:19,630 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 16:56:19,630 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 16:56:19,630 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 16:56:19,630 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 16:56:19,630 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 16:56:19,630 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 16:56:19,630 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 16:56:19,630 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 16:56:19,630 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 16:56:19,630 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 16:56:19,630 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+SOURCE: Evaluate 25 + (37 - (-24 + 36)).
+GOLD: arithmetic
+2019-12-19 17:32:44,224 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data-v2.0/interpolate/interpolate_0.txt
+2019-12-19 17:32:44,273 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 17:32:44,273 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 17:32:44,273 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 17:32:44,273 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 17:32:44,273 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 17:32:44,273 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 17:32:44,273 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 17:32:44,273 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 17:32:44,273 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 17:32:44,273 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 17:32:44,274 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 17:32:44,274 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 17:32:44,274 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 17:32:44,274 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 17:32:44,274 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 17:32:44,274 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 17:32:44,274 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+> /home/SENSETIME/wujiannan/wjn922/allennlp/examples/text_classification/test.py(132)main()
+-> correct = 0
+(Pdb) <allennlp.data.instance.Instance object at 0x7fe8244a2ba8>
+(Pdb) <allennlp.data.fields.label_field.LabelField object at 0x7fe8244a2c50>
+(Pdb) 'numbers'
+(Pdb) 1
+(Pdb) *** KeyError: tensor([1.])
+(Pdb) *** KeyError: tensor([1])
+(Pdb) 'arithmetic'
+(Pdb) *** AttributeError: 'TextField' object has no attribute 'keys'
+(Pdb) *** SyntaxError: invalid syntax
+(Pdb) --KeyboardInterrupt--
+(Pdb) (Pdb) *** SyntaxError: invalid syntax
+(Pdb) <allennlp.data.fields.text_field.TextField object at 0x7fe849e5b358>
+(Pdb) (Pdb) *** SyntaxError: invalid syntax
+(Pdb) 2019-12-19 17:52:03,961 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data-v2.0/interpolate/interpolate_0.txt
+2019-12-19 17:52:04,010 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 17:52:04,010 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 17:52:04,010 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 17:52:04,010 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 17:52:04,010 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 17:52:04,010 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 17:52:04,010 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 17:52:04,010 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 17:52:04,010 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 17:52:04,010 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 17:52:04,010 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 17:52:04,010 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 17:52:04,010 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 17:52:04,010 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 17:52:04,010 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 17:52:04,010 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 17:52:04,010 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+> /home/SENSETIME/wujiannan/wjn922/allennlp/examples/text_classification/test.py(132)main()
+-> correct = 0
+(Pdb) <allennlp.data.instance.Instance object at 0x7f4e680cfbe0>
+(Pdb) *** allennlp.common.checks.ConfigurationError: "Mismatched token keys: dict_keys(['tokens']) and KeysView(<allennlp.data.instance.Instance object at 0x7f4e680cfbe0>)"
+(Pdb) 560
+(Pdb) <allennlp.data.fields.text_field.TextField object at 0x7f4e680cfc88>
+(Pdb) [@start@, L, e, t,  , d,  , =,  , 2, 9, 4, 9, 3, /, 4, 3, 0,  , -,  , 2, 9, 4, 8, /, 4, 3, .,  , C, a, l, c, u, l, a, t, e,  , t, h, e,  , c, o, m, m, o, n,  , d, e, n, o, m, i, n, a, t, o, r,  , o, f,  , d,  , a, n, d,  , -, 2, 1, /, 1, 0, ., @end@]
+(Pdb) 2019-12-19 17:54:45,172 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data-v2.0/interpolate/interpolate_0.txt
+2019-12-19 17:54:45,222 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 17:54:45,222 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 17:54:45,222 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 17:54:45,222 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 17:54:45,222 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 17:54:45,222 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 17:54:45,222 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 17:54:45,222 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 17:54:45,222 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 17:54:45,222 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 17:54:45,222 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 17:54:45,222 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 17:54:45,222 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 17:54:45,222 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 17:54:45,222 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 17:54:45,222 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 17:54:45,222 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+> /home/SENSETIME/wujiannan/wjn922/allennlp/examples/text_classification/test.py(132)main()
+-> correct = 0
+(Pdb) [@start@, L, e, t,  , d,  , =,  , 2, 9, 4, 9, 3, /, 4, 3, 0,  , -,  , 2, 9, 4, 8, /, 4, 3, .,  , C, a, l, c, u, l, a, t, e,  , t, h, e,  , c, o, m, m, o, n,  , d, e, n, o, m, i, n, a, t, o, r,  , o, f,  , d,  , a, n, d,  , -, 2, 1, /, 1, 0, ., @end@]
+(Pdb) 'numbers'
+(Pdb) 5
+(Pdb) 'numbers'
+(Pdb) 0
+(Pdb) 'algebra'
+(Pdb) 2019-12-19 18:12:30,043 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data-v2.0/interpolate/interpolate_0.txt
+2019-12-19 18:12:30,092 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 18:12:30,092 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 18:12:30,092 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 18:12:30,092 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 18:12:30,092 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 18:12:30,092 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 18:12:30,093 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 18:12:30,093 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 18:12:30,093 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 18:12:30,093 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 18:12:30,093 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 18:12:30,093 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 18:12:30,093 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 18:12:30,093 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 18:12:30,093 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 18:12:30,093 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 18:12:30,093 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+> /home/SENSETIME/wujiannan/wjn922/allennlp/examples/text_classification/test.py(135)main()
+-> correct = 0
+(Pdb) *** AttributeError: 'str' object has no attribute 'fields'
+(Pdb) <allennlp.data.instance.Instance object at 0x7f02632cdd30>
+(Pdb) 2019-12-19 18:13:24,756 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data-v2.0/interpolate/interpolate_0.txt
+2019-12-19 18:13:24,805 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 18:13:24,805 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 18:13:24,806 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 18:13:24,806 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 18:13:24,806 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 18:13:24,806 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 18:13:24,806 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 18:13:24,806 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 18:13:24,806 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 18:13:24,806 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 18:13:24,806 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 18:13:24,806 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 18:13:24,806 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 18:13:24,806 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 18:13:24,806 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 18:13:24,806 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 18:13:24,806 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-19 18:16:44,861 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data-v2.0/interpolate/interpolate_0.txt
+2019-12-19 18:16:44,910 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 18:16:44,910 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 18:16:44,910 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 18:16:44,910 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 18:16:44,910 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 18:16:44,910 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 18:16:44,910 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 18:16:44,910 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 18:16:44,910 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 18:16:44,910 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 18:16:44,911 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 18:16:44,911 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 18:16:44,911 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 18:16:44,911 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 18:16:44,911 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 18:16:44,911 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 18:16:44,911 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-19 18:17:07,215 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data-v2.0/interpolate/interpolate_0.txt
+2019-12-19 18:17:07,264 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 18:17:07,265 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 18:17:07,265 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 18:17:07,265 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 18:17:07,265 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 18:17:07,265 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 18:17:07,265 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 18:17:07,265 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 18:17:07,265 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 18:17:07,265 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 18:17:07,265 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 18:17:07,265 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 18:17:07,265 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 18:17:07,265 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 18:17:07,265 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 18:17:07,265 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 18:17:07,265 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-19 18:17:41,645 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data-v2.0/interpolate/interpolate_0.txt
+2019-12-19 18:17:41,695 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 18:17:41,695 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 18:17:41,695 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 18:17:41,695 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 18:17:41,695 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 18:17:41,695 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 18:17:41,695 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 18:17:41,695 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 18:17:41,695 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 18:17:41,695 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 18:17:41,695 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 18:17:41,695 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 18:17:41,696 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 18:17:41,696 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 18:17:41,696 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 18:17:41,696 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 18:17:41,696 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-19 18:18:47,752 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data-v2.0/interpolate/interpolate_0.txt
+2019-12-19 18:18:47,800 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 18:18:47,800 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 18:18:47,800 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 18:18:47,800 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 18:18:47,800 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 18:18:47,800 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 18:18:47,800 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 18:18:47,800 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 18:18:47,800 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 18:18:47,800 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 18:18:47,800 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 18:18:47,800 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 18:18:47,800 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 18:18:47,800 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 18:18:47,800 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 18:18:47,800 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 18:18:47,800 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-19 18:19:02,489 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data-v2.0/interpolate/interpolate_0.txt
+2019-12-19 18:19:02,537 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 18:19:02,538 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 18:19:02,538 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 18:19:02,538 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 18:19:02,538 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 18:19:02,538 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 18:19:02,538 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 18:19:02,538 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 18:19:02,538 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 18:19:02,538 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 18:19:02,538 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 18:19:02,538 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 18:19:02,538 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 18:19:02,538 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 18:19:02,538 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 18:19:02,538 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 18:19:02,538 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-19 18:19:04,531 - WARNING - allennlp.models.model - Encountered the loss key in the model's return dictionary which couldn't be split by the batch size. Key will be ignored.
+> /home/SENSETIME/wujiannan/wjn922/allennlp/examples/text_classification/test.py(136)main()
+-> correct = 0
+(Pdb) [{'logits': [-10.622136116027832, -5.949824810028076, -9.95508861541748, -7.288220405578613, -11.156747817993164, 17.43665885925293, -8.515138626098633, -10.363476753234863], 'probs': [6.519581966304977e-13, 6.972347005307356e-11, 1.2703272678563082e-12, 1.8286094860542335e-11, 3.8198055287395893e-13, 1.0, 5.361391886005151e-12, 8.44411400611339e-13], 'predictions': 5, 'predict_labels': 'numbers'}, {'logits': [-11.010171890258789, -4.43596076965332, -10.362128257751465, -9.692280769348145, -7.058714866638184, 16.050127029418945, -6.872476100921631, -8.209375381469727], 'probs': [1.7695444718898723e-12, 1.2676667493494165e-09, 3.3830132705608973e-12, 6.610189826061763e-12, 9.203603851259956e-11, 1.0, 1.1087655793495799e-10, 2.912272159538709e-11], 'predictions': 5, 'predict_labels': 'numbers'}]
+(Pdb) {'logits': [-10.622136116027832, -5.949824810028076, -9.95508861541748, -7.288220405578613, -11.156747817993164, 17.43665885925293, -8.515138626098633, -10.363476753234863], 'probs': [6.519581966304977e-13, 6.972347005307356e-11, 1.2703272678563082e-12, 1.8286094860542335e-11, 3.8198055287395893e-13, 1.0, 5.361391886005151e-12, 8.44411400611339e-13], 'predictions': 5, 'predict_labels': 'numbers'}
+(Pdb) 'numbers'
+(Pdb) 2019-12-19 18:20:21,198 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data-v2.0/interpolate/interpolate_0.txt
+2019-12-19 18:20:21,246 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 18:20:21,246 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 18:20:21,246 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 18:20:21,246 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 18:20:21,246 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 18:20:21,246 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 18:20:21,246 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 18:20:21,246 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 18:20:21,246 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 18:20:21,246 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 18:20:21,246 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 18:20:21,246 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 18:20:21,246 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 18:20:21,247 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 18:20:21,247 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 18:20:21,247 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 18:20:21,247 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+> /home/SENSETIME/wujiannan/wjn922/allennlp/examples/text_classification/test.py(136)main()
+-> correct = 0
+(Pdb) [{'logits': [-10.622136116027832, -5.949824810028076, -9.95508861541748, -7.288219928741455, -11.15674877166748, 17.436660766601562, -8.51513957977295, -10.36347770690918], 'loss': 0.0, 'probs': [6.519581966304977e-13, 6.972333127519548e-11, 1.270322388946532e-12, 1.8286094860542335e-11, 3.819791163060804e-13, 1.0, 5.3613715030043085e-12, 8.444097743080803e-13], 'predictions': 5, 'predict_labels': 'numbers'}]
+(Pdb) 2019-12-19 18:27:14,976 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data-v2.0/interpolate/interpolate_0.txt
+2019-12-19 18:27:15,025 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 18:27:15,025 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 18:27:15,025 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 18:27:15,025 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 18:27:15,025 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 18:27:15,025 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 18:27:15,025 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 18:27:15,025 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 18:27:15,025 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 18:27:15,025 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 18:27:15,025 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 18:27:15,025 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 18:27:15,025 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 18:27:15,025 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 18:27:15,025 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 18:27:15,025 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 18:27:15,025 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-19 18:31:35,749 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data-v2.0/interpolate/interpolate_0.txt
+2019-12-19 18:31:35,797 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 18:31:35,797 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 18:31:35,797 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 18:31:35,797 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 18:31:35,797 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 18:31:35,797 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 18:31:35,797 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 18:31:35,797 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 18:31:35,798 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 18:31:35,798 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 18:31:35,798 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 18:31:35,798 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 18:31:35,798 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 18:31:35,798 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 18:31:35,798 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 18:31:35,798 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 18:31:35,798 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-19 18:32:00,477 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 18:32:00,477 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 18:32:00,477 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 18:32:00,477 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 18:32:00,477 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 18:32:00,477 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 18:32:00,477 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 18:32:00,477 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 18:32:00,477 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 18:32:00,477 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 18:32:00,477 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 18:32:00,477 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 18:32:00,477 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 18:32:00,477 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 18:32:00,477 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 18:32:00,477 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 18:32:00,477 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-19 18:36:11,353 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data-v2.0/interpolate/interpolate_0.txt
+2019-12-19 18:36:11,402 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 18:36:11,403 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 18:36:11,403 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 18:36:11,403 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 18:36:11,403 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 18:36:11,403 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 18:36:11,403 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 18:36:11,403 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 18:36:11,403 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 18:36:11,403 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 18:36:11,403 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 18:36:11,403 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 18:36:11,403 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 18:36:11,403 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 18:36:11,403 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 18:36:11,403 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 18:36:11,403 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-19 18:37:07,196 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data-v2.0/interpolate/interpolate_0.txt
+2019-12-19 18:37:07,245 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 18:37:07,245 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 18:37:07,245 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 18:37:07,245 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 18:37:07,245 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 18:37:07,245 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 18:37:07,245 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 18:37:07,245 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 18:37:07,245 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 18:37:07,245 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 18:37:07,245 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 18:37:07,246 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 18:37:07,246 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 18:37:07,246 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 18:37:07,246 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 18:37:07,246 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 18:37:07,246 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-19 18:37:09,268 - WARNING - allennlp.models.model - Encountered the loss key in the model's return dictionary which couldn't be split by the batch size. Key will be ignored.
+2019-12-19 18:37:23,862 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data/interpolate/interpolate_0.txt
+2019-12-19 18:37:55,433 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 18:37:55,433 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 18:37:55,433 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 18:37:55,433 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 18:37:55,433 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 18:37:55,433 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 18:37:55,434 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 18:37:55,434 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 18:37:55,434 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 18:37:55,434 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 18:37:55,434 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 18:37:55,434 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 18:37:55,434 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 18:37:55,434 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 18:37:55,434 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 18:37:55,434 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 18:37:55,434 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-19 18:37:57,430 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data/interpolate/interpolate_0.txt
+2019-12-19 18:37:57,452 - WARNING - allennlp.models.model - Encountered the loss key in the model's return dictionary which couldn't be split by the batch size. Key will be ignored.
+2019-12-19 18:38:13,721 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data/interpolate/interpolate_0.txt
+2019-12-19 18:39:09,935 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data/interpolate/interpolate_1.txt
+2019-12-19 18:39:19,398 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-19 18:39:19,398 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-19 18:39:19,398 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-19 18:39:19,398 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-19 18:39:19,398 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-19 18:39:19,398 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-19 18:39:19,398 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-19 18:39:19,398 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-19 18:39:19,398 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-19 18:39:19,398 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-19 18:39:19,398 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-19 18:39:19,398 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-19 18:39:19,398 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-19 18:39:19,398 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-19 18:39:19,398 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-19 18:39:19,398 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-19 18:39:19,399 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-19 18:39:21,432 - WARNING - allennlp.models.model - Encountered the loss key in the model's return dictionary which couldn't be split by the batch size. Key will be ignored.
+2019-12-31 10:27:42,919 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data/interpolate/interpolate_0.txt
+2019-12-31 10:28:39,544 - INFO - datasetreaders - Reading instances from lines in file at: ../../datasets/math/label-data/interpolate/interpolate_1.txt
+2019-12-31 10:28:49,053 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-31 10:28:49,054 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-31 10:28:49,054 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-31 10:28:49,054 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-31 10:28:49,054 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-31 10:28:49,054 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-31 10:28:49,054 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-31 10:28:49,054 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-31 10:28:49,054 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-31 10:28:49,054 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-31 10:28:49,054 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-31 10:28:49,054 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-31 10:28:49,054 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-31 10:28:49,054 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-31 10:28:49,054 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-31 10:28:49,054 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-31 10:28:49,054 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-31 10:28:51,137 - WARNING - allennlp.models.model - Encountered the loss key in the model's return dictionary which couldn't be split by the batch size. Key will be ignored.
+2019-12-31 10:44:43,224 - INFO - datasetreaders - Reading instances from lines in file at: ./generate_files/algebra.txt
+2019-12-31 10:44:43,236 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-31 10:44:43,236 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-31 10:44:43,236 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-31 10:44:43,236 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-31 10:44:43,236 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-31 10:44:43,236 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-31 10:44:43,236 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-31 10:44:43,236 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-31 10:44:43,236 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-31 10:44:43,236 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-31 10:44:43,236 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-31 10:44:43,236 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-31 10:44:43,236 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-31 10:44:43,236 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-31 10:44:43,236 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-31 10:44:43,236 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-31 10:44:43,236 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-31 10:45:40,556 - INFO - datasetreaders - Reading instances from lines in file at: ./generate_files/arithmetic.txt
+2019-12-31 10:45:40,565 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-31 10:45:40,565 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-31 10:45:40,565 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-31 10:45:40,565 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-31 10:45:40,565 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-31 10:45:40,565 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-31 10:45:40,565 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-31 10:45:40,565 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-31 10:45:40,565 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-31 10:45:40,565 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-31 10:45:40,565 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-31 10:45:40,565 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-31 10:45:40,566 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-31 10:45:40,566 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-31 10:45:40,566 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-31 10:45:40,566 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-31 10:45:40,566 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-31 10:45:54,663 - INFO - datasetreaders - Reading instances from lines in file at: ./generate_files/calculus.txt
+2019-12-31 10:45:54,674 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-31 10:45:54,674 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-31 10:45:54,674 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-31 10:45:54,674 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-31 10:45:54,674 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-31 10:45:54,674 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-31 10:45:54,674 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-31 10:45:54,675 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-31 10:45:54,675 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-31 10:45:54,675 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-31 10:45:54,675 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-31 10:45:54,675 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-31 10:45:54,675 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-31 10:45:54,675 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-31 10:45:54,675 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-31 10:45:54,675 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-31 10:45:54,675 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-31 10:46:38,609 - INFO - datasetreaders - Reading instances from lines in file at: ./generate_files/comparison.txt
+2019-12-31 10:46:38,619 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-31 10:46:38,619 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-31 10:46:38,619 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-31 10:46:38,620 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-31 10:46:38,620 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-31 10:46:38,620 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-31 10:46:38,620 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-31 10:46:38,620 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-31 10:46:38,620 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-31 10:46:38,620 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-31 10:46:38,620 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-31 10:46:38,620 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-31 10:46:38,620 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-31 10:46:38,620 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-31 10:46:38,620 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-31 10:46:38,620 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-31 10:46:38,620 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-31 10:46:53,810 - INFO - datasetreaders - Reading instances from lines in file at: ./generate_files/measurement.txt
+2019-12-31 10:46:53,819 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-31 10:46:53,819 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-31 10:46:53,819 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-31 10:46:53,819 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-31 10:46:53,820 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-31 10:46:53,820 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-31 10:46:53,820 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-31 10:46:53,820 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-31 10:46:53,820 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-31 10:46:53,820 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-31 10:46:53,820 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-31 10:46:53,820 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-31 10:46:53,820 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-31 10:46:53,820 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-31 10:46:53,820 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-31 10:46:53,820 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-31 10:46:53,820 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-31 10:47:45,047 - INFO - datasetreaders - Reading instances from lines in file at: ./generate_files/numbers.txt
+2019-12-31 10:47:45,057 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-31 10:47:45,057 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-31 10:47:45,057 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-31 10:47:45,057 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-31 10:47:45,057 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-31 10:47:45,057 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-31 10:47:45,057 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-31 10:47:45,057 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-31 10:47:45,057 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-31 10:47:45,057 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-31 10:47:45,057 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-31 10:47:45,058 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-31 10:47:45,058 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-31 10:47:45,058 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-31 10:47:45,058 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-31 10:47:45,058 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-31 10:47:45,058 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-31 10:47:57,932 - INFO - datasetreaders - Reading instances from lines in file at: ./generate_files/polynomials.txt
+2019-12-31 10:47:57,942 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-31 10:47:57,942 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-31 10:47:57,942 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-31 10:47:57,942 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-31 10:47:57,942 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-31 10:47:57,943 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-31 10:47:57,943 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-31 10:47:57,943 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-31 10:47:57,943 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-31 10:47:57,943 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-31 10:47:57,943 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-31 10:47:57,943 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-31 10:47:57,943 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-31 10:47:57,943 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-31 10:47:57,943 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-31 10:47:57,943 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-31 10:47:57,943 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight
+2019-12-31 10:48:56,425 - INFO - datasetreaders - Reading instances from lines in file at: ./generate_files/probability.txt
+2019-12-31 10:48:56,436 - INFO - allennlp.nn.initializers - Initializing parameters
+2019-12-31 10:48:56,436 - INFO - allennlp.nn.initializers - Done initializing parameters; the following parameters are using their default initialization from their code
+2019-12-31 10:48:56,436 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l0
+2019-12-31 10:48:56,436 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l1
+2019-12-31 10:48:56,436 - INFO - allennlp.nn.initializers -    _encoder._module.bias_hh_l2
+2019-12-31 10:48:56,436 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l0
+2019-12-31 10:48:56,436 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l1
+2019-12-31 10:48:56,436 - INFO - allennlp.nn.initializers -    _encoder._module.bias_ih_l2
+2019-12-31 10:48:56,436 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l0
+2019-12-31 10:48:56,436 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l1
+2019-12-31 10:48:56,437 - INFO - allennlp.nn.initializers -    _encoder._module.weight_hh_l2
+2019-12-31 10:48:56,437 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l0
+2019-12-31 10:48:56,437 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l1
+2019-12-31 10:48:56,437 - INFO - allennlp.nn.initializers -    _encoder._module.weight_ih_l2
+2019-12-31 10:48:56,437 - INFO - allennlp.nn.initializers -    _linear.bias
+2019-12-31 10:48:56,437 - INFO - allennlp.nn.initializers -    _linear.weight
+2019-12-31 10:48:56,437 - INFO - allennlp.nn.initializers -    _source_text_embedder.token_embedder_tokens.weight

@@ -1,0 +1,1512 @@
+comparison__sort
+Put 25, 3, -28, 22 in ascending order.
+-28, 3, 22, 25
+algebra__polynomial_roots_composed
+Suppose -19/5*c - 2/5*c**2 - 24/5 = 0. What is c?
+-8, -3/2
+algebra__linear_1d_composed
+Let o = 3 - 7. Let d = o + 19. Suppose -5*m + 5*u = d, 0*u = -5*m + 4*u - 12. Solve m = 3*b - 0 - 15 for b.
+5
+probability__swr_p_sequence
+Calculate prob of sequence yx when two letters picked without replacement from {y: 4, x: 7}.
+14/55
+numbers__gcd
+Calculate the highest common factor of 20467304 and 1274.
+26
+algebra__linear_2d_composed
+Let p = 7 + -3. Let r be 50/p - (-4)/(-8). Solve 5*c - 2 = -4*v, c + r = 5*c - 2*v for c.
+2
+calculus__differentiate
+Find the second derivative of 528*g**2*v**2 + 2*g**2*v - 28*g*v**3 + g*v + 83*g - 2*v**3 + 15*v wrt v.
+1056*g**2 - 168*g*v - 12*v
+polynomials__evaluate
+Let o(w) = 10 - 11*w. Give o(-7).
+87
+comparison__sort_composed
+Let h(w) = 2*w**3 - 15*w**2 + 22*w - 20. Let v be h(6). Let f = -4 - -2. Put -15/4, -1/4, f, v in increasing order.
+-15/4, f, -1/4, v
+numbers__lcm
+Calculate the least common multiple of 378 and 270.
+1890
+numbers__div_remainder
+What is the remainder when 190492785 is divided by 184051?
+0
+algebra__polynomial_roots_composed
+Let f(i) be the third derivative of -i**5/180 + 5*i**4/18 - 2*i**3 - 983*i**2. Factor f(o).
+-(o - 18)*(o - 2)/3
+numbers__is_factor_composed
+Suppose 2*q + 3*q = 30. Let b = q + -17. Does 4 divide (-145)/(-11) - (-2)/b?
+False
+probability__swr_p_sequence
+Four letters picked without replacement from eiyeegebgxeeeeiege. Give prob of sequence iyix.
+1/36720
+arithmetic__nearest_integer_root
+What is the fourth root of 369437 to the nearest integer?
+25
+comparison__pair_composed
+Let x = -0.2732 + -6.7268. Which is bigger: 3/188 or x?
+3/188
+arithmetic__mixed
+Evaluate (-27820)/(-1638) + (-48)/(-3024).
+17
+calculus__differentiate_composed
+Let m(x) = -69*x**4 - 6*x**3 + 12*x - 51. Let s(d) = -138*d**4 - 15*d**3 + 30*d - 105. Let r(c) = -15*m(c) + 6*s(c). Find the first derivative of r(j) wrt j.
+276*j**3
+numbers__list_prime_factors_composed
+Let x = 39 - 27. Suppose 2 - x = -5*p. Suppose p*y = 10 + 6. What are the prime factors of y?
+2
+arithmetic__add_or_sub_in_base
+In base 7, what is -2 + 60?
+55
+arithmetic__add_or_sub_in_base
+In base 14, what is -4 + c10d8?
+c10d4
+arithmetic__nearest_integer_root
+What is 1941 to the power of 1/2, to the nearest integer?
+44
+arithmetic__nearest_integer_root
+What is the square root of 2497192 to the nearest integer?
+1580
+comparison__pair_composed
+Let h be 115/23*10/25. Let i be (0 - 18)*1/(-16). Which is bigger: h or i?
+h
+arithmetic__add_sub_multiple
+-11 + (-4 + 22 - 10)
+-3
+algebra__linear_1d
+Solve -112444*p + 112426*p + 414 = 0 for p.
+23
+numbers__list_prime_factors_composed
+Suppose -16*w + 115 = 19. What are the prime factors of w?
+2, 3
+polynomials__collect
+Collect the terms in -315929*r**3 - 315975*r**3 + 631902*r**3.
+-2*r**3
+numbers__div_remainder_composed
+Let h = -211 - -138. Let c = h + 26. Calculate the remainder when -1 + (-3 - (-3 + c)) is divided by 12.
+10
+polynomials__evaluate_composed
+Let h(m) = 4*m + 39. Suppose 3*t = -y - 30, 4*y + 1466 = 1502. What is h(t)?
+-13
+numbers__place_value_composed
+Suppose 0 = w - 5*n + 4*n - 4, -5*n = -3*w + 10. Suppose -t + c - w*c + 160 = 0, 320 = 2*t + 4*c. What is the tens digit of t?
+6
+numbers__base_conversion
+1001011101110000 (base 2) to base 6
+455252
+arithmetic__mixed
+Calculate 12/(-18)*(495/162 + -3).
+-1/27
+numbers__lcm_composed
+Let s(x) = x + 4. Let l be s(1). Suppose 4*p + 2*c = -p + 58, -l*p = -5*c - 30. What is the least common multiple of 55 and p?
+110
+arithmetic__mul_div_multiple
+Calculate 16/((306/(-816))/((9/16)/(-1))).
+24
+comparison__pair_composed
+Let y be (1 - (-426)/(-34))*-2*(4 + -2). Is y >= 45?
+True
+numbers__lcm_composed
+Suppose -14 = -82*h + 75*h. Suppose -135 - 415 = -4*v + h*l, -3*l = -4*v + 553. What is the least common multiple of v and 136?
+136
+measurement__conversion
+What is three fifths of a litre in millilitres?
+600
+probability__swr_p_sequence
+Two letters picked without replacement from dzdjujzzdjjj. Give prob of sequence zz.
+1/22
+arithmetic__add_or_sub_in_base
+In base 12, what is 11b71 + -3194?
+a999
+polynomials__simplify_power
+Simplify (k**(-12)*(k/(k/k**25))/k)/(k**11)**(-4/13) assuming k is positive.
+k**(200/13)
+polynomials__coefficient_named
+Rearrange 4*w - 1047 + w - 31*w**2 + 1058 - 3*w to the form q + y*w + p*w**2 and give q.
+11
+numbers__is_factor
+Is 68461 a multiple of 7?
+False
+algebra__sequence_nth_term
+What is the i'th term of 295529, 591031, 886535, 1182041?
+i**2 + 295499*i + 29
+polynomials__coefficient_named
+Express 33 + 0 - 6*q**3 + 108 - q**2 + q + 3*q - 10 in the form o + l*q**2 + k*q + j*q**3 and give k.
+4
+measurement__time
+What is 322 minutes after 1:14 PM?
+6:36 PM
+arithmetic__mul_div_multiple
+Evaluate ((-2)/1)/(4*6/48).
+-4
+numbers__is_factor
+Does 31 divide 12637125?
+False
+polynomials__coefficient_named
+Express (-4 + 2 + 11)*(2*h + h - 5*h + (-4*h + 4*h - 2*h)*(3 - 2 + 0) + 4 + h - 4 + (0 + 0 - 2*h)*(-1 + 0 + 3)) as r + p*h and give p.
+-63
+probability__swr_p_level_set
+Four letters picked without replacement from nzonnozonnnn. What is prob of picking 4 n?
+7/99
+algebra__sequence_nth_term
+What is the h'th term of -3137, -2868, -2401, -1718, -801, 368, 1807, 3534?
+3*h**3 + 81*h**2 + 5*h - 3226
+arithmetic__simplify_surd
+Simplify (5*(sqrt(1225) - (sqrt(1225) - sqrt(1225)*2)) + sqrt(1225))/(sqrt(405)*-1 + sqrt(15)/sqrt(3)*-5).
+-11*sqrt(5)/2
+measurement__conversion
+How many minutes are there in two ninths of a week?
+2240
+algebra__polynomial_roots
+Suppose -3*y**3/4 + 300*y = 0. Calculate y.
+-20, 0, 20
+numbers__gcd_composed
+Let c = -8538 + 9742. Calculate the greatest common divisor of c and 112.
+28
+comparison__closest_composed
+Let o = 89 - 88.6. Which is the nearest to -13?  (a) o  (b) -1/8  (c) 0.3
+b
+numbers__is_factor_composed
+Suppose -45*y + 32582 = -12643. Is y a multiple of 15?
+True
+numbers__div_remainder
+What is the remainder when 1685773 is divided by 35?
+33
+numbers__place_value_composed
+Let b = 0 - -2. Suppose -b*g = -4*g - 12. Let l = 8 + g. What is the units digit of l?
+2
+arithmetic__add_sub_multiple
+Calculate -31 - (-5 + 1 + -8) - -2.
+-17
+measurement__time
+How many minutes are there between 1:49 PM and 3:44 PM?
+115
+numbers__round_number
+What is 20.15 rounded to the nearest integer?
+20
+arithmetic__nearest_integer_root
+What is the cube root of 753252981 to the nearest integer?
+910
+numbers__lcm
+Calculate the lowest common multiple of 88 and 100136.
+1101496
+algebra__linear_1d_composed
+Suppose 2 = p, 2*s - 2*p = s. Suppose 0 = -5*q + 5*j - 20, 2*q - j + 4 + 1 = 0. Let c be (8/(-20))/(q/5). Solve c*n = s + 6 for n.
+5
+polynomials__collect
+Collect the terms in 149*t**3 - 72*t**3 - 69*t**3.
+8*t**3
+arithmetic__add_sub_multiple
+Evaluate 5 - 1 - (6 + (-1 - -8) + 2).
+-11
+algebra__polynomial_roots_composed
+Solve -340*t - 74*t - 853*t**2 + 3*t**3 + 344*t**2 + 308*t**2 = 0.
+-2, 0, 69
+polynomials__compose
+Let m(r) be the second derivative of r**7/1260 + r**4/12 + 17*r. Let o(w) be the third derivative of m(w). Let y(g) = -22*g**2. Calculate o(y(u)).
+968*u**4
+arithmetic__mul_div_multiple
+What is the value of ((-12)/180)/((-3)/(-18))?
+-2/5
+comparison__pair_composed
+Suppose 2*s - 6*s - 29 = p, -30 = 4*s + 2*p. Let b = -13 - s. Let f be b/(-3) - 2 - 1. Is -1 < f?
+False
+calculus__differentiate_composed
+Suppose -4*n = 2*f - 53 - 29, 0 = 2*n + 5*f - 61. Find the third derivative of -n*o - o**3 + 2*o**5 + 7*o + o**2 - 16*o - 2*o wrt o.
+120*o**2 - 6
+comparison__pair
+Is 0 at least 21/6548474?
+False
+comparison__pair
+Is -2620 smaller than -2620?
+False
+numbers__list_prime_factors
+List the prime factors of 1159.
+19, 61
+arithmetic__mul
+Work out 1552.77 * -5.
+-7763.85
+polynomials__evaluate
+Let v(l) = 27*l + 1023. What is v(5)?
+1158
+numbers__is_factor_composed
+Is 27 a factor of (6/15 + (-2)/(-20))*486?
+True
+polynomials__simplify_power
+Simplify p**(2/29)*p/(p/(p*p**1)) assuming p is positive.
+p**(60/29)
+calculus__differentiate
+What is the third derivative of -112125*l**3 - 2*l**2 + 35 wrt l?
+-672750
+polynomials__compose
+Let u(g) = 7 - 4*g**2. Let f(d) = 2 - d**2. Let s(l) = 7*f(l) - 2*u(l). Let q(x) = 8*x - 8*x + 3*x**2. Calculate s(q(v)).
+9*v**4
+numbers__is_factor_composed
+Suppose 3*a + 13 = 2*c, 3*c - 5*a = 10 + 10. Is c a multiple of 5?
+True
+algebra__linear_2d
+Solve -4*o = -5*v + 7, 3*o + 2159 = 59*v + 2209 for v.
+-1
+polynomials__add
+Let l(x) = -18*x**2 + 30*x + 30. Suppose 141 - 246 = -5*n. Let w(v) = 0*v + 3*v**2 + 1 + 13 - n + 4 - 3*v. Determine 3*l(c) + 30*w(c).
+12*c**2
+comparison__kth_biggest
+What is the third biggest value in -0.5, -0.01, 22, -9, -3, -1/9, -4?
+-1/9
+arithmetic__mul
+Product of 0.1 and 0.3782.
+0.03782
+polynomials__evaluate_composed
+Let t(a) be the second derivative of a**4/6 - 2*a**3/3 - 23*a**2/2 + 2412*a. Determine t(6).
+25
+comparison__pair_composed
+Let y = 432 - 459. Which is bigger: -12 or y?
+-12
+polynomials__simplify_power
+Simplify h/(h**(-5/2)/h)*h*h/(h*h*h**(-2)*h*h)*h**(2/13)*h**(1/3)*((h/(h**(1/2)/h))/(h**(2/13)/h))**(6/7) assuming h is positive.
+h**(3821/546)
+algebra__sequence_nth_term
+What is the n'th term of -292, -286, -280, -274, -268, -262?
+6*n - 298
+algebra__linear_1d_composed
+Let g be ((-1)/(4/(-5)))/(2/136). Let v = g + -57. Let u = -26 + v. Solve -6 + u = d for d.
+-4
+algebra__linear_1d
+Solve -9*c + 5*c - 30*c + 340 = 0 for c.
+10
+numbers__place_value
+What is the hundred thousands digit of 21183916?
+1
+algebra__polynomial_roots_composed
+Suppose 0 = 4*q - 5*m - 17, q + 3*m = -2*q + 6. Suppose -q*t**5 - 6*t + 2*t + 3*t + 6*t**3 - 2*t = 0. What is t?
+-1, 0, 1
+algebra__linear_1d
+Solve 17027 = 9295*w + 10895 - 21753 for w.
+3
+polynomials__collect
+Collect the terms in 0*z - 16 - 12 + 8*z + 28.
+8*z
+arithmetic__mul_div_multiple
+-10*90/(-200)*46/437
+9/19
+numbers__lcm
+Find the common denominator of 103/110 and -123/20.
+220
+numbers__is_factor
+Is 8 a factor of 501473?
+False
+numbers__lcm_composed
+Let y = -1289/10 + 128. Calculate the common denominator of y and 127*(-1)/6 + 13/(-39).
+10
+algebra__linear_1d
+Solve -36*h = -14612 + 14756 for h.
+-4
+numbers__list_prime_factors
+What are the prime factors of 1603274229?
+3, 19793509
+numbers__round_number_composed
+Let b = -165 + 165.0281. Round b to 3 decimal places.
+0.028
+calculus__differentiate_composed
+What is the derivative of 10 + 2*l**2 - 4 + 0*l**2 wrt l?
+4*l
+algebra__linear_1d_composed
+Suppose 151 + 78 = 7*q - 219. Solve 7*h - q = -99 for h.
+-5
+comparison__closest
+What is the nearest to -0.1 in -1/2, -10, 3, -2?
+-1/2
+numbers__round_number
+What is -0.0019370754746 rounded to five dps?
+-0.00194
+polynomials__simplify_power
+Simplify (d**8)**(2/61) assuming d is positive.
+d**(16/61)
+numbers__place_value_composed
+Let y be -3*(-6)/(1 + -4). Let a(x) = -9*x + 1 + 2*x**2 - 3*x**2 + 0. What is the units digit of a(y)?
+9
+polynomials__expand
+Expand (1 + 3 - 3)*(2*l + 3*l - 3*l)*(0 + 0 - 2).
+-4*l
+polynomials__expand
+Expand (12*n - 5*n - 9*n)*(3*n - n - n + (-2*n + 2*n + n)*(2 + 0 - 3) + n + n + 0*n).
+-4*n**2
+measurement__conversion
+What is thirty-two fifths of a century in months?
+7680
+numbers__lcm
+Find the common denominator of 1/72 and -49/6070017.
+145680408
+comparison__sort
+Put 31, 2326, 5, 1 in decreasing order.
+2326, 31, 5, 1
+numbers__lcm
+Find the common denominator of -59/6465 and 17/57960.
+24980760
+numbers__gcd
+Calculate the greatest common divisor of 564 and 2697612.
+564
+measurement__conversion
+What is 459.7108 millilitres in litres?
+0.4597108
+arithmetic__add_or_sub
+What is -91.01 take away -0.0831?
+-90.9269
+comparison__kth_biggest_composed
+Let i = -2.52 + 2.22. Let m = 0.47 - 0.5. Which is the third biggest value?  (a) m  (b) i  (c) -3/4
+c
+polynomials__expand
+Expand (-290*h - 523 + 523)*(0 - 4 + 3) - h + 0*h + 2*h.
+291*h
+polynomials__simplify_power
+Simplify (n**(2/13))**(-28)*n**(2/7)/n*n**21 assuming n is positive.
+n**(1454/91)
+numbers__is_prime
+Is 8114212019 a prime number?
+True
+comparison__kth_biggest_composed
+Let i = 58/7 + -536/63. Let q = -25.2 - -23. Let u = 0.8 - q. What is the second biggest value in u, i, -0.1?
+-0.1
+comparison__kth_biggest_composed
+Let v be (18/45)/((-13)/(-5)). Let t = -0.703 + 0.803. What is the fourth biggest value in -0.2, v, t, -2?
+-2
+numbers__is_prime_composed
+Let i = -6 - -11. Suppose -2*v - 892 - 157 = -i*y, -5*y - 4*v + 1067 = 0. Is y prime?
+True
+polynomials__simplify_power
+Simplify ((i**(-4)/i)/(i*i*i/i**(-5/4)))/((i*i**(-3)*i)/(i**(-3/7)*i))*(((i/(i*i**(3/4)*i))/i*i*i)/i**(-1/2))**(-11) assuming i is positive.
+i**(-69/14)
+calculus__differentiate
+What is the second derivative of -2*f**5 + 32*f**4 - 25*f**2 - 37004*f wrt f?
+-40*f**3 + 384*f**2 - 50
+arithmetic__mul_div_multiple
+What is (3/(-3)*1*(-96)/(-48))/(-53)?
+2/53
+measurement__conversion
+How many minutes are there in fifteen quarters of a hour?
+225
+comparison__closest
+Which is the closest to 5?  (a) 2  (b) 1  (c) -1
+a
+algebra__linear_1d_composed
+Let r be ((-1)/(-2))/(3/24). Let h be 32/(-24)*6/r. Let d be 1/h*1*-6. Solve w = -d*w + 12 for w.
+3
+algebra__sequence_next_term
+What is the next term in 16209, 32340, 48471?
+64602
+numbers__div_remainder_composed
+Let p = 142 - 81. What is the remainder when p is divided by 31?
+30
+algebra__sequence_next_term
+What is the next term in 1990525, 1990541, 1990557, 1990573?
+1990589
+measurement__time
+What is 669 minutes before 5:38 PM?
+6:29 AM
+algebra__sequence_nth_term
+What is the f'th term of -139, -257, -353, -421, -455, -449?
+f**3 + 5*f**2 - 140*f - 5
+numbers__div_remainder
+Calculate the remainder when 190 is divided by 64.
+62
+numbers__is_factor_composed
+Let w = 16571 - 9731. Does 114 divide w?
+True
+comparison__kth_biggest
+What is the third smallest value in 1/4, 0, 3, -2060.3, 2?
+1/4
+numbers__round_number_composed
+Let u = 35.5 - 40. Let p = u + -4.9. Let t = 10.61 + p. What is t rounded to one dp?
+1.2
+arithmetic__add_or_sub_in_base
+In base 4, what is -11303001120 - 10321?
+-11303012101
+comparison__sort
+Put 3, 56, -0.1, 1, -0.05 in increasing order.
+-0.1, -0.05, 1, 3, 56
+numbers__list_prime_factors
+What are the prime factors of 46185?
+3, 5, 3079
+arithmetic__div
+What is -16349 divided by -6?
+16349/6
+numbers__is_prime_composed
+Suppose 2*u - u = 0. Let a = 181 + 59. Suppose 0 = -2*w + j + a, u = -j - 4 + 2. Is w composite?
+True
+comparison__closest
+Which is the closest to -2/23?  (a) 0.0167  (b) -0.5  (c) 2/9  (d) 5/2  (e) -1/6
+e
+algebra__sequence_next_term
+What is the next term in 1471, 2900, 4223, 5386, 6335, 7016, 7375?
+7358
+arithmetic__mul
+3.38*-238029
+-804538.02
+numbers__div_remainder_composed
+Let c(d) = 3 - 10*d. Suppose m - 15 = 4*m. What is the remainder when c(m) is divided by 18?
+17
+numbers__is_prime_composed
+Let p be 0/((-3)/(-6)*2). Let b be ((-3)/2 - -1)*p. Suppose -2*a + 45 - 7 = b. Is a a prime number?
+True
+numbers__lcm
+Calculate the least common multiple of 9251 and 10.
+92510
+algebra__linear_2d
+Solve 1 = u - 5*f - 9, -3*u + 4 = -2*f for u.
+0
+comparison__kth_biggest
+What is the second biggest value in 0.05, 1, -2/9, -0.3, 17?
+1
+comparison__closest_composed
+Let j be (-12)/(-52) + (0 - 1). Let m = j + 31/91. Which is the closest to -3/2?  (a) -2/13  (b) m  (c) 5
+b
+comparison__kth_biggest_composed
+Let m = -479 - -1438/3. Let f = 0.9 + -1. Which is the third biggest value?  (a) -3  (b) f  (c) m  (d) 2/13
+b
+comparison__kth_biggest_composed
+Let w be 3/(-4)*(-2)/(-9). Let j be 0 + 2 - 0/(-1). Which is the second smallest value?  (a) 0  (b) w  (c) j
+a
+comparison__pair
+Are 796804600 and 796804601 non-equal?
+True
+probability__swr_p_level_set
+Four letters picked without replacement from {a: 4, v: 1, u: 3}. Give prob of picking 2 u, 1 a and 1 v.
+6/35
+comparison__kth_biggest_composed
+Let g be (2/44)/(2/4612). Let m = -105 + g. Let r be (-10)/15 + 2/12. What is the biggest value in r, 5, m?
+5
+probability__swr_p_sequence
+Two letters picked without replacement from {d: 4, g: 2, f: 4}. What is prob of sequence dd?
+2/15
+polynomials__add
+Suppose 7 = -2*i - 11. Let s(j) = j - 5. Let u(a) = 2*a - 11. Let p = -9 - -13. What is i*s(y) + p*u(y)?
+1 - y
+numbers__gcd
+Calculate the greatest common factor of 4964916 and 18158.
+2594
+measurement__time
+How many minutes are there between 4:44 AM and 11:38 AM?
+414
+arithmetic__add_or_sub
+Work out 9647146549873 + 0.2.
+9647146549873.2
+numbers__round_number_composed
+Let u = -97.919 - 0.081. Let r = 12255.39 - 12158. Let g = u + r. What is g rounded to 1 dp?
+-0.6
+numbers__is_factor_composed
+Suppose 0 = -4*q - s + 5165, 0*s = 3*q - 2*s - 3860. Is q a multiple of 47?
+False
+polynomials__collect
+Collect the terms in -372 + 430 - 24*v**2 + 425 + 22*v**2 - 483.
+-2*v**2
+comparison__kth_biggest_composed
+Let y = -5.16 - 4.54. Let q = y - -10.8. What is the second biggest value in q, 1, 0.3?
+1
+polynomials__compose
+Let i(h) = 38*h**2. Let v(o) = 356*o**2. What is i(v(c))?
+4815968*c**4
+measurement__time
+How many minutes are there between 3:10 PM and 3:52 PM?
+42
+calculus__differentiate
+Find the third derivative of 128771874*q**6 - 34*q**2 - 55993*q.
+15452624880*q**3
+comparison__kth_biggest_composed
+Let f = -0.9 + -0.1. Let q = -20 + 29. Suppose 0 = -2*r + 3*v - 23, 5*r - 5*v - q + 54 = 0. Which is the third biggest value?  (a) f  (b) r  (c) -3/2
+b
+comparison__pair
+Which is smaller: -7/3224 or 0?
+-7/3224
+algebra__linear_1d
+Solve 447 - 499 = -13*h for h.
+4
+numbers__div_remainder_composed
+Suppose -13*w + 362 = 5*w - 1942. Calculate the remainder when w is divided by 37.
+17
+arithmetic__simplify_surd
+Simplify (-3*sqrt(102)*-3)/(sqrt(30)/(sqrt(10)/sqrt(2) + sqrt(5))).
+18*sqrt(17)
+arithmetic__add_or_sub
+503626027 + 0.3
+503626027.3
+measurement__conversion
+What is thirty-one fifths of a kilogram in grams?
+6200
+polynomials__simplify_power
+Simplify ((p*p/p**0)**(1/2))**(-17/2) assuming p is positive.
+p**(-17/2)
+arithmetic__div
+Divide -1001 by 13.
+-77
+numbers__gcd_composed
+Let r(m) = m**3 - 12*m**2 + 28*m + 11. Let u be r(9). Calculate the greatest common divisor of u and 125.
+5
+numbers__lcm
+Calculate the least common multiple of 5 and 4753.
+23765
+arithmetic__simplify_surd
+Simplify (sqrt(99) - (sqrt(99) + (sqrt(99) - -2*2*sqrt(99)) - sqrt(99)) - sqrt(99)*-3*-4)/((sqrt(81) - sqrt(9))*5 - (sqrt(225) + sqrt(9))*1)*-3.
+12*sqrt(11)
+comparison__pair
+Are 81/347 and 0 nonequal?
+True
+numbers__round_number
+Round -562872.031 to the nearest 100000.
+-600000
+calculus__differentiate
+Find the third derivative of 1180*l**3*s**3 + 172*l**3*s - 3*l**2*s**2 + 2*l*s**3 - s**2 wrt s.
+7080*l**3 + 12*l
+comparison__closest
+What is the nearest to 0.05 in -0.1, -7, -1, -0.3?
+-0.1
+numbers__list_prime_factors
+List the prime factors of 441305.
+5, 88261
+calculus__differentiate_composed
+Let q(m) be the first derivative of -5*m**4/4 + 4*m**3/3 - 19*m**2 + 2*m - 13. What is the second derivative of q(b) wrt b?
+8 - 30*b
+numbers__is_prime_composed
+Suppose -87*l = -86*l - 655. Is l composite?
+True
+comparison__kth_biggest
+Which is the smallest value?  (a) 2/7  (b) -0.4  (c) 3/2  (d) 16
+b
+numbers__gcd_composed
+Let q = -5116 + 10681. Calculate the greatest common factor of q and 318.
+159
+probability__swr_p_level_set
+What is prob of picking 1 k, 1 q, 1 m and 1 w when four letters picked without replacement from jkmwq?
+1/5
+arithmetic__mixed
+What is the value of (4125/44550)/(10/(-9))?
+-1/12
+polynomials__coefficient_named
+Rearrange (2*f**2 + f - f)*(2330*f**2 + 165*f**2 - 61*f**2 + (3*f + 0*f - 5*f)*(-2*f + 3*f - 3*f)) to w*f**4 + z*f + i*f**3 + k + m*f**2 and give k.
+0
+numbers__is_prime_composed
+Suppose -q = -5*g + 96634, -g - 3*g + 2*q = -77312. Suppose g = 12*z - 37902. Is z a composite number?
+True
+comparison__pair_composed
+Suppose -5*w - 15 = -5*a + 45, -a + 27 = -4*w. Suppose -4*c - a = 29. Is -9 not equal to c?
+False
+measurement__conversion
+What is 1/5 of a millennium in decades?
+20
+arithmetic__add_or_sub
+Work out -1.72334035 - 2.7.
+-4.42334035
+numbers__list_prime_factors_composed
+Let u be ((-36)/(-14))/((-3)/(-42)). Suppose u*v = 11*v + 2850. List the prime factors of v.
+2, 3, 19
+probability__swr_p_level_set
+Two letters picked without replacement from {v: 3, p: 1, x: 3, b: 1, c: 2}. What is prob of picking 1 p and 1 b?
+1/45
+arithmetic__simplify_surd
+Simplify ((3*sqrt(209)*-2)/((sqrt(99) - sqrt(11))*-5))**2 - 2*(-1 + (-2 + sqrt(931))**2 + sqrt(931)).
+-46529/25 + 42*sqrt(19)
+algebra__linear_1d_composed
+Suppose 3*t - 19 = -2*c, -40 = -2*t + 4*c - 6. Solve -f - 2*f + t = 0 for f.
+3
+numbers__is_prime
+Is 367231199 prime?
+False
+polynomials__collect
+Collect the terms in 178*s + 927*s + 111*s.
+1216*s
+polynomials__compose
+Let w(r) = -15*r. Let d(u) = 345*u**2. Give d(w(q)).
+77625*q**2
+algebra__linear_1d
+Solve -7*t - 14*t = -210 for t.
+10
+numbers__place_value
+What is the ten millions digit of 29618704?
+2
+arithmetic__mul
+Multiply -0.5 and -2600.
+1300
+calculus__differentiate
+What is the first derivative of 364*d**3*l**2 - 306*d**3*v - d**2*l**2*v wrt v?
+-306*d**3 - d**2*l**2
+algebra__polynomial_roots_composed
+Find a, given that 5*a + 1/4*a**4 - 1/2*a**3 - 7/4*a**2 - 3 = 0.
+-3, 1, 2
+calculus__differentiate
+What is the first derivative of -g*t - 32169895*g + 12738257*t wrt g?
+-t - 32169895
+algebra__linear_2d
+Solve -s + 6 = -953*r + 951*r, -4*r = 5*s - 30 for r.
+0
+comparison__kth_biggest
+Which is the third biggest value?  (a) -2  (b) -12  (c) -0.4  (d) -2/9
+a
+arithmetic__add_sub_multiple
+What is -8 + -7 + 3 - (-59 + 42) - 10?
+-5
+measurement__time
+What is 279 minutes after 1:19 AM?
+5:58 AM
+calculus__differentiate
+Find the third derivative of -k**2*m**3*w + 6*k**2*m*w**2*x - 2*k**2 - 303*k*m**3*w**2 + k*m**2*x - 2*m**3*x - 2*m**2 - 6*m*w**2*x + w**2 wrt m.
+-6*k**2*w - 1818*k*w**2 - 12*x
+comparison__sort
+Sort -17, -1, -4 in increasing order.
+-17, -4, -1
+polynomials__evaluate_composed
+Let p(r) = 1 - r. Let q(z) = z**2 + 2*z + 8. Let l(b) = -p(b) - q(b). Determine l(0).
+-9
+numbers__gcd_composed
+Let l be -3 + 2 + 7 + 1. Let n = l - 6. Suppose -n - 1 = -o. What is the highest common factor of 3 and o?
+1
+arithmetic__add_or_sub
+What is -1237.93425 + -845777?
+-847014.93425
+polynomials__evaluate_composed
+Let n(o) = 13 - o. Let a be n(8). Let d(k) = -a + 4*k + k**3 + 6*k**2 - 1 + 0*k. Calculate d(-5).
+-1
+polynomials__collect
+Collect the terms in -2*y**3 + 11 - 9 - 2.
+-2*y**3
+arithmetic__add_or_sub
+4013.6 - 5
+4008.6
+numbers__place_value_composed
+Suppose 3*a = a - 4, -5*a - 631 = -3*r. What is the tens digit of r?
+0
+measurement__conversion
+How many seconds are there in 50016.53 hours?
+180059508
+algebra__polynomial_roots
+Factor 2*q**4/9 + 5140*q**3/9 + 489632*q**2 + 1263236864*q/9 + 2508888064/9.
+2*(q + 2)*(q + 856)**3/9
+algebra__linear_2d_composed
+Let h = 260 + -258. Let j be 1/(-4) - (28/16 - h). Solve -3*q - 4*m + 20 = j, q = 3*q - 3*m - 2 for q.
+4
+numbers__list_prime_factors
+What are the prime factors of 4916?
+2, 1229
+numbers__lcm_composed
+Suppose -4*h = -4 - 16. Suppose -142 = h*z + 28. Calculate the common denominator of z/(-51)*279/20 and -25.
+10
+probability__swr_p_sequence
+Four letters picked without replacement from {u: 2, x: 4, o: 1, f: 2}. What is prob of sequence oxuo?
+0
+algebra__sequence_next_term
+What is next in 7721, 30804, 69251, 123062, 192237, 276776?
+376679
+algebra__linear_2d_composed
+Let h(q) = q**3 - 2*q**2 - 3*q - 2. Let p be h(3). Let o be 0/(-1*(p - 0)). Suppose -13*s = -57 - 47. Solve o = 5*j + 5*l - 15, l + l - s = -3*j for j.
+2
+comparison__closest_composed
+Let m = -33 - -32.87. Let s = 0.17 - m. Let z be (12/45)/(3/5). Which is the nearest to 2/7?  (a) 0.4  (b) s  (c) z
+b
+numbers__lcm
+Calculate the smallest common multiple of 24425760 and 58621824.
+293109120
+arithmetic__div
+Calculate 30 divided by 19.
+30/19
+numbers__place_value
+What is the millions digit of 10271538?
+0
+algebra__linear_1d
+Solve 32 = -113*l - 759 for l.
+-7
+numbers__is_prime
+Is 18960951 a prime number?
+False
+arithmetic__mixed
+Calculate (-35)/7*1/(1 + 0).
+-5
+algebra__sequence_next_term
+What is the next term in -25, -24, -23?
+-22
+polynomials__expand
+Expand (0 + 2 + 0)*(-3 + 2*a + 3) + 122878 - 122878 - 524*a.
+-520*a
+numbers__is_prime_composed
+Suppose g - 274445 = -6*t, -133*g + 135*g - t - 548799 = 0. Is g a prime number?
+True
+arithmetic__mul_div_multiple
+Calculate ((-1)/2)/((270/15)/216).
+-6
+polynomials__coefficient_named
+Rearrange 3*v**2 - v**2 - 8*v**2 + (3 - 4 + 0)*(v**2 + v - v) - v**2 - v**2 + v**2 - 3 + 3 - v**2 + (1 - 1 - 1)*(2 + v**2 - 2) to l + q*v + w*v**2 and give q.
+0
+numbers__list_prime_factors
+What are the prime factors of 2633684?
+2, 23, 28627
+arithmetic__mixed
+What is the value of (-2)/12 + (1445/(-102))/85?
+-1/3
+numbers__base_conversion
+Convert -63a (base 11) to base 4.
+-30001
+arithmetic__add_or_sub
+1644+241613
+243257
+polynomials__add
+Suppose -103*y - 582 - 617 = -272. Let p(g) = -4 + 2 - 2. Let v(j) = 9 - j. Calculate y*p(u) - 4*v(u).
+4*u
+comparison__sort
+Put -2, 53, -4, -32, -1, 16 in decreasing order.
+53, 16, -1, -2, -4, -32
+arithmetic__nearest_integer_root
+What is 21586 to the power of 1/3, to the nearest integer?
+28
+numbers__list_prime_factors
+List the prime factors of 3995845.
+5, 7, 114167
+numbers__div_remainder_composed
+Let l(j) = -23*j - 20. Let i be l(-1). Suppose 0 = 5*b + 4*c - i*c - 891, -4*b + 4*c = -732. What is the remainder when b is divided by 23?
+18
+arithmetic__add_sub_multiple
+25 + -30 + 15 + -6 + (7 - -35)
+46
+comparison__kth_biggest
+Which is the second smallest value?  (a) -112/9  (b) 125.2  (c) 41
+c
+comparison__pair
+Which is bigger: 0 or 6/18511469?
+6/18511469
+arithmetic__simplify_surd
+Simplify ((-2*sqrt(209)*-5 + (sqrt(209)*1*1 - sqrt(209)))*-2)/((-2*sqrt(88)*-4)/(sqrt(512)/sqrt(4))).
+-10*sqrt(19)
+algebra__sequence_nth_term
+What is the y'th term of -253589, -507177, -760765, -1014353, -1267941?
+-253588*y - 1
+numbers__is_prime
+Is 2280127 a prime number?
+True
+arithmetic__mul_div_multiple
+What is ((-2)/4)/(-5*(-35)/(-7700))?
+22
+algebra__polynomial_roots_composed
+Let n(z) = z**3 - z**2 + 8. Let c(f) = f**3 + 9. Let k(h) = -3*c(h) + 4*n(h). Let s be k(4). Factor -4 - o**3 + o + s - 2*o**2 + o**2.
+-(o - 1)*(o + 1)**2
+comparison__closest
+Which is the nearest to -4?  (a) 229/8  (b) 2  (c) -3/4  (d) 1  (e) 2/7  (f) -3
+f
+numbers__gcd
+Calculate the greatest common factor of 25991177 and 151.
+151
+comparison__closest_composed
+Let g = -26 + 41. Let w = g - 15. Let d = 6 - 6. What is the nearest to w in -5, d, -0.3?
+d
+arithmetic__div
+Calculate -25479685 divided by 5.
+-5095937
+comparison__closest_composed
+Let g = -139.6078 - -0.3078. Let u = g - -147. Let w = 8 - u. Which is the closest to 0?  (a) w  (b) -3  (c) 0.2
+c
+polynomials__expand
+Expand 22*d**3 - 32*d**2 + 32*d**2 + (-7*d**2 + 4*d**2 + 2*d**2)*(-3*d + 5*d - 3*d).
+23*d**3
+arithmetic__div
+What is 639 divided by 171068?
+639/171068
+numbers__gcd_composed
+Suppose -3*z + 2*m + 48 = -z, -5*z - 3*m + 96 = 0. What is the greatest common factor of z and 3?
+3
+calculus__differentiate_composed
+Let z = 1 - -3. Let n be (-5 - -3) + 3 + z. What is the second derivative of 0*s - 4*s + 6*s + 3*s**5 - 4*s**n wrt s?
+-20*s**3
+algebra__linear_2d_composed
+Suppose -21*p = 20*p - 6*p - 105. Solve 2*v = p*g, 63*g - 59*g - 3*v = -1 for g.
+2
+polynomials__coefficient_named
+Express 407 - 28*w**3 - 1229 + 410 + 2*w + 412 + w**2 in the form n*w**2 + d*w**3 + k*w + j and give k.
+2
+numbers__place_value
+What is the units digit of 971?
+1
+measurement__time
+What is 468 minutes after 1:48 PM?
+9:36 PM
+comparison__pair_composed
+Suppose -9*d = -4*d. Let q be (-5)/(-1)*(-102)/(-85). Let v(i) = i - 6. Let t be v(q). Is d at least t?
+True
+probability__swr_p_level_set
+Four letters picked without replacement from {x: 4, p: 8, w: 1, c: 4, k: 1, f: 2}. What is prob of picking 1 x and 3 c?
+16/4845
+numbers__round_number_composed
+Suppose 0 = o + 3*n - 6, o + 15 = 4*n - 0*n. Let p be o + 7/(7/(-26399997)). Round p to the nearest 1000000.
+-26000000
+arithmetic__add_or_sub_in_base
+In base 3, what is 122110 - -111010112120?
+111011012000
+polynomials__evaluate_composed
+Let v(y) = 10 - 7 - y**2 + 7*y - 6. Calculate v(6).
+3
+comparison__sort
+Put 127, 34, 1, -5, -3, 4 in decreasing order.
+127, 34, 4, 1, -3, -5
+numbers__round_number_composed
+Let g = 494.1325 + -494. What is g rounded to 2 dps?
+0.13
+numbers__lcm_composed
+Let w = -168 - -290. What is the lowest common multiple of 1 and w?
+122
+algebra__polynomial_roots
+Solve 33856*v**4/9 - 243616*v**3/9 + 466948*v**2/9 + 31540*v/3 - 72200 = 0.
+-1, 2, 285/92
+comparison__closest
+Which is the closest to 2?  (a) 0.2  (b) 36  (c) -3
+a
+comparison__sort
+Put 0, -3774, -228 in descending order.
+0, -228, -3774
+numbers__round_number
+What is -1061400 rounded to the nearest ten thousand?
+-1060000
+algebra__polynomial_roots_composed
+Let m = -5 - 1. Let o be (m/(-4)*1)/3. Factor -o*q**2 + 2*q - 2.
+-(q - 2)**2/2
+polynomials__evaluate
+Let j(v) = -v**3 + 17*v**2 + v - 18. Calculate j(17).
+-1
+polynomials__expand
+Expand (-5*h + 5*h - h)*((0*h - h + 0*h)*(-4*h + 4*h + 2*h) + 3*h**2 + 27*h - 27*h).
+-h**3
+probability__swr_p_level_set
+Four letters picked without replacement from goggoogogogggogooggo. Give prob of picking 4 o.
+42/1615
+comparison__closest
+What is the nearest to -0.1 in -0.1, -0.75, -21197.6?
+-0.1
+numbers__is_factor
+Does 645 divide 8719688?
+False
+comparison__pair
+Is 3/19 <= -2/3?
+False
+numbers__is_factor_composed
+Let g = -38 + -2. Is (105/10)/((-6)/g) a multiple of 10?
+True
+arithmetic__mixed
+Calculate (39 - -26)*40/260 + -17.
+-7
+numbers__is_factor
+Does 92 divide 2488?
+False
+numbers__div_remainder
+Calculate the remainder when 11209947 is divided by 10418.
+179
+arithmetic__mul
+What is 134847.8 times -5?
+-674239
+numbers__div_remainder
+What is the remainder when 27958 is divided by 9023?
+889
+comparison__sort_composed
+Let l = -15 - -12.6. Let x = l - -3. Let t = 3 - 2.8. Sort -0.5, t, x in increasing order.
+-0.5, t, x
+comparison__closest
+Which is the closest to -1?  (a) 12/19  (b) -2/9  (c) -0.1  (d) -1  (e) -98  (f) -0.03
+d
+measurement__time
+How many minutes are there between 11:01 AM and 4:29 PM?
+328
+numbers__list_prime_factors_composed
+Suppose -5*t + 0 = 10. List the prime factors of 21 - (t + -2 + 3).
+2, 11
+numbers__list_prime_factors_composed
+Let m be (-1)/(-2) + 99/2. Let h be (-237)/(-9) + (-1)/3. Suppose 2*w + 3*z - h = 0, 4*w - m = -z - 4*z. List the prime factors of w.
+2, 5
+arithmetic__add_sub_multiple
+What is the value of -3 + 0 + (-2 - -4)?
+-1
+arithmetic__nearest_integer_root
+What is the square root of 152806419 to the nearest integer?
+12361
+numbers__div_remainder
+Calculate the remainder when 841 is divided by 282.
+277
+probability__swr_p_sequence
+Four letters picked without replacement from {w: 1, u: 1, x: 1, e: 1, k: 2, f: 1}. Give prob of sequence ukku.
+0
+comparison__pair_composed
+Let q = 1321862632183/54275 - 24354908. Let p = 1/325 + q. Is -2/5 > p?
+False
+algebra__linear_1d_composed
+Let m = -2 - -5. Let i(h) = -h**2 + 5*h - 2. Let x be i(m). Solve t = -x*t + 15 for t.
+3
+algebra__sequence_nth_term
+What is the n'th term of -1646, -1917, -2188?
+-271*n - 1375
+polynomials__collect
+Collect the terms in -11 - 18*i**3 + 16*i**3 + 67 + 83*i**3.
+81*i**3 + 56
+numbers__gcd_composed
+Let n be (-8)/(-8) + (2 - 0). Let w be 8 + (-2)/(n/3). Calculate the highest common divisor of w and 30.
+6
+comparison__sort_composed
+Let n = -2325 + 2314. Sort n, 4, 98.
+n, 4, 98
+polynomials__compose
+Let k(s) = 2*s**2 + 3. Let i(q) = 16*q - 15. What is k(i(z))?
+512*z**2 - 960*z + 453
+algebra__linear_2d
+Solve -4*z + 13 = q - 3, 2*z - 8 = -q for z.
+4
+comparison__closest
+Which is the nearest to -2/3?  (a) -16  (b) 58  (c) 0.06  (d) -3
+c
+numbers__div_remainder
+Calculate the remainder when 732278 is divided by 3487.
+8
+polynomials__evaluate
+Let n(i) = 3*i**3 - 20*i**2 + 21*i - 70. Give n(6).
+-16
+algebra__sequence_nth_term
+What is the p'th term of -8, -2, 10, 28?
+3*p**2 - 3*p - 8
+numbers__gcd
+Calculate the highest common divisor of 1 and 2025.
+1
+numbers__place_value_composed
+What is the hundreds digit of 7/(126/(-13815))*12/(-5)?
+8
+arithmetic__mixed
+Evaluate (-2134)/(-22407) + (-62)/210.
+-1/5
+algebra__linear_2d_composed
+Let a = -134 + 142. Solve -2*l - 4*c = -6, -a*l + 4*c + 1 = -3*l for l.
+1
+arithmetic__mul
+What is the product of 0.1 and 15800?
+1580
+numbers__is_prime
+Is 47359 prime?
+False
+numbers__round_number_composed
+Let d = 2997.6 + -2836. What is d rounded to the nearest one hundred?
+200
+numbers__is_factor_composed
+Let w = 66172 + -24595. Does 28 divide w?
+False
+polynomials__add
+Let l(z) = 19*z**3 - 485*z**2 + 5. Let w(t) = -11*t**3 + 242*t**2 - 3. Determine -3*l(s) - 5*w(s).
+-2*s**3 + 245*s**2
+probability__swr_p_level_set
+Calculate prob of picking 1 v and 2 b when three letters picked without replacement from bnnvnnnnncvc.
+0
+arithmetic__add_sub_multiple
+Evaluate 71 + -56 + -29 + 1.
+-13
+comparison__sort_composed
+Let t(q) = 3*q**2 + 20*q - 9. Let x(y) = -4*y**2 - 21*y + 9. Let w(z) = 6*t(z) + 5*x(z). Let j be w(7). Put -3, j, 2, -4 in decreasing order.
+2, j, -3, -4
+numbers__is_factor
+Is 1505 a multiple of 15?
+False
+polynomials__compose
+Let h(s) be the first derivative of -2*s**3/3 - 7672. Let f(n) = -8027*n**2. What is f(h(v))?
+-32108*v**4
+arithmetic__add_sub_multiple
+12 + -43 + -23 + (-18 - -3)
+-69
+polynomials__expand
+Expand (a - 5 + 5)*(a - 3*a + a) + 0*a**2 - 3*a**2 + a**2 + (-979*a + 51*a**2 + 979*a)*(-4 + 5 - 5).
+-207*a**2
+comparison__closest_composed
+Let h be 7/(-3)*(-1188)/693. Which is the closest to 1?  (a) 0.7  (b) -0.3  (c) -0.03  (d) h
+a
+comparison__kth_biggest
+Which is the fourth biggest value?  (a) 4  (b) -2/47  (c) 0.8  (d) -0.2  (e) -0.05
+e
+polynomials__add
+Let q(a) = -5*a - 4. Let j(o) = o**2 - o - 2. Let s be j(0). Let u be 26/4 + s/(-4). Suppose 4*w = 3*w + u. Let m(b) = -2*b - 2. Calculate w*m(p) - 3*q(p).
+p - 2
+numbers__is_prime
+Is 1681 composite?
+True
+numbers__lcm_composed
+Suppose -3*c - 12 - 51 = 0. Let h be c/4*24/(-9). Let k = -12 + h. Calculate the least common multiple of 2 and k.
+2
+numbers__is_factor_composed
+Let u(m) = m**3 - 3*m**2 + 4*m - 2. Let q be u(2). Suppose -q*k = -78 - 56. Does 15 divide k?
+False
+numbers__round_number_composed
+Let y(c) = 326*c**2 + 2*c + 3. Let a be y(-3). Suppose -4*h - 389 - a = 0. What is h rounded to the nearest one thousand?
+-1000
+algebra__polynomial_roots
+Find c such that 4*c**4 - 936*c**3 + 53812*c**2 + 110448*c + 55696 = 0.
+-1, 118
+polynomials__expand
+Expand -11015*p + 11015*p + 207*p**3 + (p + 2*p - p)*(0*p**2 - 2*p**2 + 0*p**2) + 2*p - 2*p - p**3.
+202*p**3
+numbers__is_factor
+Is 2 a factor of 184?
+True
+algebra__polynomial_roots_composed
+Suppose 9 = 8*r - 23. Let b be 40/r*1/5. Factor 2 - 1/2*n**b + 0*n.
+-(n - 2)*(n + 2)/2
+polynomials__simplify_power
+Simplify (((o*o/o**(1/7))/o)/o)/(o/(o/o**(-3/8)*o))*o*o/((o*o**14/o)/o)*o*o*o*o**(-6/13) assuming o is positive.
+o**(-5263/728)
+numbers__gcd
+What is the greatest common factor of 630 and 259182?
+126
+polynomials__evaluate
+Let y(k) = -k**2 - 44*k + 1634. Give y(24).
+2
+algebra__linear_2d
+Solve 0 = 2*g - 34*y + 166, 4*g + 84*y - 87*y + 4 = -3 for g.
+2
+comparison__kth_biggest
+Which is the second smallest value?  (a) -19  (b) 1/4  (c) 0.63
+b
+numbers__base_conversion
+-135024305 (base 7) to base 2
+-100001101011110000110001
+probability__swr_p_level_set
+What is prob of picking 1 r, 1 p and 1 b when three letters picked without replacement from ribpqbbbrqq?
+8/165
+numbers__gcd_composed
+Let s = 27 - 13. Let o(y) = y**2 - 45*y + 346. Let i be o(41). Calculate the highest common factor of s and i.
+14
+arithmetic__mul
+What is the product of 5 and -286?
+-1430
+numbers__place_value_composed
+What is the tens digit of (30/(-8))/(-5) - 127444/(-16)?
+6
+algebra__polynomial_roots
+Let 2*p**2 + 8620968*p + 9290136157128 = 0. What is p?
+-2155242
+polynomials__evaluate
+Let h(j) = -2*j**3 + 60*j**2 + 87*j - 776. What is h(31)?
+-1
+comparison__closest_composed
+Let w = -0.3 + 1.3. Let y(h) = h - 1. Let j be y(4). Suppose 0 = 5*u - 5, 0 = m + j*m + 5*u - 1. Which is the closest to m?  (a) 5  (b) 1/5  (c) w
+b
+numbers__div_remainder_composed
+Calculate the remainder when 47 is divided by 14 + (-2)/2 + 0/(-12).
+8
+numbers__gcd
+What is the greatest common divisor of 637911 and 162?
+9
+comparison__sort
+Sort 2/11, -0.2, -246.
+-246, -0.2, 2/11
+arithmetic__add_or_sub_in_base
+In base 12, what is 34 - 4a?
+-16
+numbers__list_prime_factors_composed
+Suppose g - 2*o - 425 = 0, 257 = g + o - 165. Let d = -255 + g. Suppose -2*l + d = 2*l - 5*c, 0 = -2*l + 3*c + 86. What are the prime factors of l?
+37
+algebra__sequence_next_term
+What is the next term in -4897, -9794, -14691, -19588, -24485, -29382?
+-34279
+algebra__polynomial_roots
+Suppose -5*k**2 + 6715915*k - 26863580 = 0. Calculate k.
+4, 1343179
+numbers__base_conversion
+What is -21835 (base 12) in base 10?
+-44393
+polynomials__collect
+Collect the terms in -40 + l + 4 + 35 + 1.
+l
+polynomials__expand
+Expand (-1772*n**3 + 1573*n**3 - 1142*n**3)*(3 - 3 + 2).
+-2682*n**3
+polynomials__add
+Let x(u) = 15*u. Let b(a) = -120*a. Determine 3*b(v) + 25*x(v).
+15*v
+numbers__round_number_composed
+Let j = 2.392 + -2.3. What is j rounded to 1 dp?
+0.1
+arithmetic__simplify_surd
+Simplify ((-1*(sqrt(1584) + 0 + -4) + 2)*-6)**2 + -4.
+58316 - 5184*sqrt(11)
+calculus__differentiate_composed
+Suppose -8 = -4*c - 2*r, 4*c + 12 = 2*r + r. What is the third derivative of -6*y**6 + c*y**6 - y**2 + 0*y**2 wrt y?
+-720*y**3
+algebra__linear_2d_composed
+Suppose 2*h + 5*b + 8 = 0, 2 = -3*h + 2*h - 3*b. Let q = h - -17. Let n be (-165)/(-9) + (-2)/6. Solve 0 = -4*t + q*d + 2*d - n, -t = -3*d + 8 for t.
+-2
+comparison__sort_composed
+Let q(i) = 7*i + 215. Let o be q(-26). Let v be (-154)/o*6/(-4). Put v, 11, 5 in descending order.
+11, v, 5
+algebra__linear_2d
+Solve 0 = m + 5*a + 200273 - 200281, 6*m + 5*a + 2 = 0 for m.
+-2
+arithmetic__mixed
+(-42)/(-105)*(-15)/(-27)
+2/9
+numbers__is_prime
+Is 144401951 a composite number?
+True
+arithmetic__add_or_sub
+Calculate -1930 - -4.
+-1926
+numbers__list_prime_factors
+List the prime factors of 5198579842.
+2, 2599289921
+arithmetic__mul_div_multiple
+Evaluate 9/((-2079)/6)*-7*19/(-19).
+-2/11
+numbers__base_conversion
+What is 1 (base 6) in base 14?
+1
+polynomials__evaluate
+Let t(b) = -5*b**2 + 55*b + 48. Determine t(16).
+-352
+numbers__base_conversion
+Convert 36 (base 10) to base 12.
+30
+numbers__div_remainder_composed
+Let f = 31 - 26. Suppose 0 = -4*r + 4*v + 28, 0 = -f*r - 7*v + 2*v - 5. Calculate the remainder when 68/18 + (-6)/(-27) is divided by r.
+1
+polynomials__simplify_power
+Simplify (x**(-17)/(x/x**(-22))*(x**(1/7)/x*x)**(-9))**(1/6) assuming x is positive.
+x**(-289/42)
+arithmetic__add_or_sub_in_base
+In base 11, what is -5136 + -3?
+-5139
+numbers__list_prime_factors
+List the prime factors of 239617058.
+2, 67, 1788187
+algebra__polynomial_roots
+Determine z, given that -5*z**4 + 95*z**3 + 5*z**2 - 95*z = 0.
+-1, 0, 1, 19
+numbers__gcd_composed
+Suppose -2*s + 2*o + 131 = 3*s, 3*s + 2*o = 69. Calculate the greatest common divisor of 225 and s.
+25
+numbers__div_remainder_composed
+Let z(d) = -d**2 + 8*d + 34. What is the remainder when 89 is divided by z(6)?
+43
+numbers__round_number
+Round -0.000000444035 to 7 dps.
+-0.0000004
+numbers__place_value
+What is the tens digit of 3068077886?
+8
+numbers__lcm
+Calculate the common denominator of -41/523 and 106/105.
+54915
+polynomials__coefficient_named
+Express (2*z - 4*z**2 + z + 2*z**2)*(-68 + 68 + 103*z) + 0*z**3 - z**3 - 2*z**3 in the form b + k*z**2 + i*z + o*z**3 and give k.
+309
+numbers__list_prime_factors_composed
+Let v(r) = 163*r**2. Suppose 4*p + 3*u = -8, u - 18 = -2*p + 5*u. Let z be v(p). Let q = z + -113. List the prime factors of q.
+2, 5
+numbers__place_value
+What is the tens digit of 6176979?
+7
+numbers__place_value_composed
+Suppose -336 = -3*k + 132. What is the units digit of k?
+6
+algebra__sequence_next_term
+What is next in 13, 26, 61, 130, 245, 418, 661, 986?
+1405
+numbers__is_prime_composed
+Let d = -130 - -137. Is ((-8)/32*d)/((-1)/2564) composite?
+True
+algebra__linear_2d_composed
+Let u be (-28)/(-49) + 17/7. Solve -r + 17 = 4*i, -3*r = -2*i + 2 + u for i.
+4
+algebra__linear_2d
+Solve 5*k = -0*k - 2*a - 30, -375 = -3*k - 2*a - 397 for k.
+-4
+arithmetic__simplify_surd
+Simplify (sqrt(176) - (2 + 2*sqrt(176)))**2 - (sqrt(176)*1 + -4)**2.
+-12 + 48*sqrt(11)
+comparison__kth_biggest
+What is the fourth biggest value in -0.02, 13, -0.5, 5, -3/7, -0.1, 769?
+-0.02
+numbers__base_conversion
+16d0e (base 15) to base 4
+102001112
+algebra__sequence_next_term
+What comes next: 922, 1533, 2144, 2755, 3366?
+3977
+algebra__linear_1d
+Solve 18*i + 0 + 54 = 0 for i.
+-3
+arithmetic__div
+What is -82 divided by 7983?
+-82/7983
+numbers__div_remainder
+What is the remainder when 5690 is divided by 13?
+9
+numbers__round_number
+What is 24081409.6 rounded to the nearest 1000?
+24081000
+polynomials__add
+Let s(b) be the second derivative of b**5/5 - b**4/4 - b**3/2 - b**2/2 - 40*b. Let p(i) = 12*i**3 - 8*i**2 - 8*i - 3. Calculate 3*p(g) - 8*s(g).
+4*g**3 - 1
+numbers__is_prime_composed
+Let k be (11 - 14) + (12 - -2). Suppose k*l + 9235 = 16*l. Is l a prime number?
+True
+algebra__sequence_nth_term
+What is the v'th term of 94, 195, 306, 433, 582, 759, 970?
+v**3 - v**2 + 97*v - 3
+polynomials__coefficient_named
+Rearrange -2 + 3*x**4 + 7*x**2 + 2*x**3 + 0*x**4 + x - 7*x**2 to the form o*x**4 + j*x**3 + v + y*x + c*x**2 and give v.
+-2
+measurement__time
+What is 270 minutes after 5:58 AM?
+10:28 AM
+numbers__lcm_composed
+Suppose 3*k - 5*g + 6 = -8*g, 0 = -5*g + 5. Calculate the common denominator of k/150*(52 + 3/3) and -67/10.
+50
+numbers__place_value
+What is the ten thousands digit of 79591?
+7
+arithmetic__add_or_sub
+Total of -2.059 and 71378143.
+71378140.941
+algebra__linear_1d_composed
+Suppose 0 = -4*p - 4*k + 1392, 2*p + 295*k - 294*k = 688. Solve 22*x - p = -472 for x.
+-6
+polynomials__evaluate_composed
+Let f = 5 + -11. Let c(z) = 24 - 23 + 5*z**2 + 8*z - 4*z**2. Calculate c(f).
+-11
+polynomials__compose
+Let g(o) = 0*o + 5*o - 4*o. Let p(y) = -y - 2*y - 2*y + 7*y. Determine p(g(f)).
+2*f
+comparison__pair
+Which is smaller: 7188 or 7172?
+7172
+polynomials__add
+Let w(b) = 53*b**2 + 2*b + 37. Let d(t) = -29*t**2 - t - 19. Calculate 11*d(r) + 6*w(r).
+-r**2 + r + 13
+polynomials__compose
+Let w(o) = o. Let f(d) = 904*d**2 + 667*d + 1. Determine f(w(l)).
+904*l**2 + 667*l + 1
+probability__swr_p_level_set
+What is prob of picking 2 u, 1 x and 1 c when four letters picked without replacement from {u: 3, x: 3, c: 7}?
+63/715
+numbers__place_value
+What is the units digit of 19636?
+6
+numbers__is_prime
+Is 2519131 a composite number?
+False
+numbers__is_factor
+Does 18 divide 48891474?
+True
+calculus__differentiate_composed
+Let z(m) = m**3 + m**2 + 2*m - 3. Let x(q) = -10*q**3 + 75*q**2 + 57*q + 18. Let k(a) = -x(a) - 6*z(a). What is the second derivative of k(f) wrt f?
+24*f - 162
+polynomials__evaluate
+Let w(o) = 101*o**2 - 9981*o - 10084. What is w(-1)?
+-2
+numbers__gcd
+Calculate the highest common factor of 36 and 7920.
+36
+comparison__pair
+Which is smaller: 17087 or 290475/17?
+290475/17
+arithmetic__add_sub_multiple
+What is -2 - 0 - -4 - (3 - 3)?
+2
+numbers__place_value_composed
+Suppose 2*k - 5*i = 54, -4*i - 4 = -2*i. Suppose 0 = -2*n - 3*a + 19, -2*n - 2*a = -6*a + 16. Suppose -3*l = -2*l, -5*l + k = n*j. What is the units digit of j?
+1
+arithmetic__mul
+-4709.7 times 0.09
+-423.873
+numbers__list_prime_factors_composed
+Let t(c) = 41*c + 17. Suppose -51 = 14*a - 17*a. List the prime factors of t(a).
+2, 3, 7, 17
+numbers__lcm_composed
+Let w be 4/(-2 + 1)*-1. Suppose 5*d + 2*p + 1029 = 0, w*d - p - 461 = -1292. What is the common denominator of d/66 + 4/2 and 137/18?
+198
+algebra__polynomial_roots
+Factor -3*a**2 + 61215*a - 4574250.
+-3*(a - 20330)*(a - 75)
+comparison__sort
+Put -4, 10, -11, 19, -5 in decreasing order.
+19, 10, -4, -5, -11
+numbers__gcd
+What is the highest common divisor of 630 and 3402?
+126
+numbers__base_conversion
+Convert 35 (base 8) to base 13.
+23
+numbers__round_number_composed
+Let j = -447 - -447.0000389. What is j rounded to six dps?
+0.000039
+polynomials__evaluate_composed
+Let c = -15 + 16. Let v(d) = 19*d**2 + 5*d - 5. Let m(r) = 5*r**2 + r - 1. Let x(f) = 9*m(f) - 2*v(f). Give x(c).
+7
+measurement__conversion
+How many micrograms are there in thirteen quarters of a milligram?
+3250
+polynomials__compose
+Let k(l) be the first derivative of -2/3*l**3 + 49 + 0*l + 0*l**2. Let j(b) = 103*b**2. Determine k(j(g)).
+-21218*g**4
+comparison__sort_composed
+Let s be (1 - 0)/((-2)/20). Let u be (-1 + (-3)/(-6))*s. Suppose -x + 3*x = -10. Sort -4, u, x in decreasing order.
+u, -4, x
+arithmetic__div
+Divide 34182420 by -264980.
+-129
+numbers__gcd_composed
+Let o = 17779 + -16771. Calculate the highest common factor of o and 414.
+18
+numbers__place_value
+What is the hundreds digit of 5152675588?
+5
+polynomials__evaluate
+Let j(n) = 76 - 2*n. Determine j(29).
+18
+numbers__is_prime_composed
+Suppose -q + 63 + 42 = 0. Let w = q - 68. Is w a prime number?
+True
+numbers__div_remainder_composed
+Suppose a + 4*z + 1 = 0, -5*a - 40*z = -42*z + 27. Calculate the remainder when (-8)/(-2) + (-5)/(a/211) is divided by 36.
+35
+numbers__is_prime
+Is 137983 a prime number?
+True
+arithmetic__nearest_integer_root
+What is 982245149 to the power of 1/9, to the nearest integer?
+10
+comparison__sort_composed
+Suppose -10 = -y - 4*w, 4*w - 22 = 7*y - 2*y. Sort y, -4, -77 in descending order.
+y, -4, -77
+polynomials__add
+Let v(h) be the first derivative of 6*h**2 + 8*h - 71. Let m(q) = q + 13 + 7*q - 8. What is -8*m(u) + 5*v(u)?
+-4*u
+comparison__kth_biggest_composed
+Let m be 44/506 - 116/276. Which is the second biggest value?  (a) -4  (b) -0.3  (c) -2  (d) m
+d
+arithmetic__add_or_sub_in_base
+In base 8, what is 5 - -1133502?
+1133507
+comparison__sort_composed
+Let q = 153 - 108. Let c(l) = -43*l - 15 + q*l - 3. Let x be c(9). Put x, -3, -1, -2 in decreasing order.
+x, -1, -2, -3
+algebra__polynomial_roots
+Suppose -135*a**2/8 + 57*a/8 - 3/4 = 0. What is a?
+1/5, 2/9
+arithmetic__nearest_integer_root
+What is 2424034 to the power of 1/2, to the nearest integer?
+1557
+algebra__linear_2d
+Solve -2*g = -k, 0 = 47*k - 44*k + 4*g for k.
+0
+arithmetic__add_or_sub_in_base
+In base 5, what is 4242233 + 20?
+4242303
+algebra__sequence_next_term
+What is the next term in -822, -727, -632?
+-537
+algebra__polynomial_roots_composed
+Suppose -y + 24*q + 7 = 19*q, 4*y - 4*q = 12. Factor 0 + 16/3*t + 8/3*t**y - 7/3*t**3 + 1/3*t**4.
+t*(t - 4)**2*(t + 1)/3
+arithmetic__mul_div_multiple
+What is the value of 5*((-2)/36)/(1625/130)?
+-1/45
+numbers__div_remainder
+Calculate the remainder when 908 is divided by 230.
+218
+numbers__round_number
+Round -14299 to the nearest 100.
+-14300
+numbers__place_value_composed
+Suppose -48*d = -33*d - 89145. What is the thousands digit of d?
+5
+arithmetic__simplify_surd
+Simplify 5*(0 + sqrt(1008) + -1 + -2).
+-15 + 60*sqrt(7)
+algebra__sequence_nth_term
+What is the c'th term of 936943, 936932, 936917, 936898, 936875, 936848?
+-2*c**2 - 5*c + 936950
+algebra__linear_1d_composed
+Let f be 2/(3/(-30)*-4). Suppose -f*c + 2 = -3. Let i be (-1)/1 - (c - 2). Solve -4*l + i*l = 4 for l.
+-1
+probability__swr_p_sequence
+What is prob of sequence cctp when four letters picked without replacement from kmckkpkckpkpt?
+1/2860
+comparison__sort_composed
+Let a = 8.2 + -8. Let i = -10 + 9.8. Put i, -0.5, a in descending order.
+a, i, -0.5
+comparison__closest_composed
+Let k = 2.8 - 3. Let p = -1106 - -1105.9. Which is the closest to p?  (a) -18  (b) -3  (c) k
+c
+numbers__base_conversion
+Convert -628815 (base 9) to base 3.
+-200222220112
+comparison__pair_composed
+Let o = -6.8 + 4.8. Which is greater: o or -16?
+o
+numbers__round_number
+What is -7820.4616 rounded to zero dps?
+-7820
+calculus__differentiate_composed
+Let g(k) be the second derivative of 0 + 193*k - 3/20*k**5 + 0*k**3 - 1/42*k**7 - 39/4*k**4 + 0*k**2 + 0*k**6. What is the third derivative of g(i) wrt i?
+-60*i**2 - 18
+algebra__linear_2d_composed
+Let c = 45 - 53. Let i be -4 - c - (1 + 0). Suppose 4*p + 5 = 37. Solve -s + i*k = 6, -3*s - 4*k = -p*s - 19 for s.
+-3
+probability__swr_p_sequence
+What is prob of sequence ii when two letters picked without replacement from {v: 1, i: 19}?
+9/10
+algebra__linear_2d
+Solve 8*x + 68 = 4*h, -90*h - 19 = -91*h + 3*x for h.
+13
+numbers__round_number
+Round 0.0001106611 to 3 dps.
+0
+numbers__lcm_composed
+Suppose 144*q - 139*q - 275 = 0. Calculate the lowest common multiple of 10 and q.
+110
+polynomials__collect
+Collect the terms in -24*t**3 - 419 + 247 + 172.
+-24*t**3
+polynomials__evaluate_composed
+Let n(l) be the first derivative of -l**3/3 + 6*l**2 - 26*l + 256. Determine n(8).
+6
+numbers__is_factor
+Is 1181 a factor of 546730959?
+True
+arithmetic__div
+Calculate 1876095 divided by -208455.
+-9
+arithmetic__div
+Divide 402 by 3.
+134
+calculus__differentiate
+What is the third derivative of -67683358*j**3*y**2 - 8595*j**2*y**2 - 5*j**2 + 14*j*y - 6*j wrt j?
+-406100148*y**2
+arithmetic__mul
+What is the product of -2 and -0.097?
+0.194
+arithmetic__nearest_integer_root
+What is the sixth root of 32433 to the nearest integer?
+6
+polynomials__evaluate_composed
+Let n(h) = -5*h + 25877*h**2 - 53 + 12*h - 25871*h**2 - h**3. Calculate n(5).
+7
+polynomials__coefficient_named
+Rearrange (14 + 11*s**4 - 14)*(4 - 1 - 2)*(3 - 5 - 6) to the form j + h*s + z*s**3 + w*s**2 + c*s**4 and give c.
+-88
+algebra__linear_2d_composed
+Let z = 26 - 21. Solve 3*j + m + 21 = z*m, 5*j + 3*m + 6 = 0 for j.
+-3
+numbers__list_prime_factors_composed
+Let k(f) be the first derivative of f**2/2 + 11*f - 130. Suppose -3*v + 12 = -4*m - 26, 4*v + 32 = -5*m. List the prime factors of k(m).
+3
+calculus__differentiate_composed
+Let s(t) = 1049*t**3 + 654*t**2 - 4*t - 14. Let l(j) = 1049*j**3 + 658*j**2 - 3*j - 10. Let b(p) = 4*l(p) - 3*s(p). Find the third derivative of b(a) wrt a.
+6294
+algebra__linear_1d
+Solve -28 - 12 + 40 = 212*h for h.
+0
+arithmetic__simplify_surd
+Simplify ((sqrt(50) + -2*sqrt(50))/sqrt(10) + sqrt(30)/sqrt(24))**2.
+5/4
+comparison__closest_composed
+Let t be (-31)/18 - -4*11/198. Which is the nearest to -20?  (a) 4  (b) 12  (c) t
+c
+probability__swr_p_sequence
+Three letters picked without replacement from {m: 3, l: 2, t: 4, y: 1}. Give prob of sequence mtl.
+1/30
+arithmetic__mixed
+Calculate (-333)/36 + 9 - 30/8.
+-4
